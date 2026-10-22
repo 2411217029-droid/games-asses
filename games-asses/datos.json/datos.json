@@ -1,0 +1,53 @@
+
+[
+  {
+    "id": 1,
+    "nombre": "God of War",
+    "desarrolladora": "Santa Monica Studio",
+    "genero": "Acción / aventura",
+    "plataforma": "PlayStation / PC",
+    "precio": 699,
+    "descripcion": "Kratos y su hijo Atreus emprenden un viaje por tierras de la mitología nórdica, enfrentando criaturas y dioses mientras descubren secretos de su pasado.",
+    "stock": 10
+  },
+  {
+    "id": 2,
+    "nombre": "Avatar: Frontiers of Pandora",
+    "desarrolladora": "Massive Entertainment",
+    "genero": "Acción / mundo abierto",
+    "plataforma": "PlayStation 5 / Xbox Series X|S / PC",
+    "precio": 899,
+    "descripcion": "Explora el mundo de Pandora como un Na'vi, descubre sus paisajes y criaturas, y lucha por proteger tu hogar de las amenazas humanas.",
+    "stock": 8
+  },
+  {
+    "id": 3,
+    "nombre": "Mario Kart 8 Deluxe",
+    "desarrolladora": "Nintendo",
+    "genero": "Carreras",
+    "plataforma": "Nintendo Switch",
+    "precio": 999,
+    "descripcion": "Compite en emocionantes carreras con Mario y sus amigos, utiliza objetos especiales y recorre pistas llenas de obstáculos y sorpresas.",
+    "stock": 12
+  },
+  {
+    "id": 4,
+    "nombre": "Alice: Madness Returns",
+    "desarrolladora": "Spicy Horse",
+    "genero": "Acción / aventura",
+    "plataforma": "PC / PlayStation 3 / Xbox 360",
+    "precio": 450,
+    "descripcion": "Alice regresa a un País de las Maravillas oscuro y peligroso para enfrentar sus recuerdos, resolver misterios y descubrir la verdad sobre su pasado.",
+    "stock": 7
+  },
+  {
+    "id": 5,
+    "nombre": "Mortal Kombat X",
+    "desarrolladora": "NetherRealm Studios",
+    "genero": "Peleas / combate",
+    "plataforma": "PlayStation 4 / Xbox One / PC",
+    "precio": 399,
+    "descripcion": "Enfrenta a poderosos luchadores en combates intensos, domina sus habilidades especiales y participa en una historia llena de rivalidades.",
+    "stock": 9
+  }
+]
